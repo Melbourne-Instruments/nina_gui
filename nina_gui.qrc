@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/res">
+    <file alias="Melb_Inst_Splash.png">src/images/MI-Splash-854px.png</file>
+    <file alias="Boot_Warning.png">src/images/Cal-Screens-Warnings-854px.png</file>
+    <file alias="Nina_Splash.png">src/images/NINA-logo-854px.png</file>
+    <file alias="midi-key-trans.png">src/images/midi-key-trans.png</file>
+    <file alias="hourglass-animated.gif">src/images/hourglass-animated.gif</file>
+    <file alias="DSEG7Classic-BoldItalic.ttf">src/fonts/DSEG7Classic-BoldItalic.ttf</file>
+    <file alias="OCR-A.ttf">src/fonts/OCR-A.ttf</file>
+    <file alias="OCR-B.ttf">src/fonts/OCRBStd.otf</file>
+</qresource>
+</RCC>
